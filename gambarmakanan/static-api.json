@@ -4,10 +4,12 @@
     {"nama": "cumi", "imageId": "cumi.jpg"},
     {"nama": "mie", "imageId": "mie.jpg"},
     {"nama": "bakso", "imageId": "bakso.jpg"},
-    {"nama": "seblak", "imageId": "seblak.jpg"}
-    {"nama": "Ayam Karage", "imageId": "ayamkarage.jpg"}
-    {"nama": "Gurita Pedas", "imageId": "guritapedas.jpg"}
-    {"nama": "Makaroni Pedas", "imageId": "makaroni.jpg"}
-    {"nama": "TelurBalado", "imageId": "telurbalado.jpg"}
+    {"nama": "seblak", "imageId": "seblak.jpg"},
+    {"nama": "Ayam Karage", "imageId": "ayamkarage.jpg"},
+    {"nama": "Gurita Pedas", "imageId": "guritapedas.jpg"},
+    {"nama": "Makaroni Pedas", "imageId": "makaroni.jpg"},
+    {"nama": "TelurBalado", "imageId": "telurbalado.jpg"},
+    {"nama": "Ramen", "imageId": "ramen.jpeg"},
+    {"nama": "Ceker", "imageId": "ceker.jpeg"}
    
 ]
