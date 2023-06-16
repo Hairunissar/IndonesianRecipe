@@ -1,8 +1,8 @@
 [
-    {"nama": "Nasi Goreng", "namaLatin": "a",  "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/nasigoreng.jpeg"},
-    {"nama": "Mie Ayam","namaLatin": "a", "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/mie ayam.jpeg"},
-    {"nama": "Seblak", "namaLatin": "a", "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/seblak.jpeg"},
-    {"nama": "Gulai", "namaLatin": "a", "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/gulai.jpeg"},
-    {"nama": "Gado", "namaLatin": "a", "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/gado.jpeg"},
-    {"nama": "Topoki","namaLatin": "a", "imageId": "https://github.com/Hairunissar/IndonesianRecipe/blob/main/Resep%20makanan/topoki.jpeg"}
+    {"nama": "Nasi Goreng", "namaLatin": "a",  "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/nasigoreng.jpeg"},
+    {"nama": "Mie Ayam", "namaLatin": "a", "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/mie%20ayam.jpeg"},
+    {"nama": "Seblak", "namaLatin": "a", "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/seblak.jpeg"},
+    {"nama": "Gulai", "namaLatin": "a", "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/gulai.jpeg"},
+    {"nama": "Gado", "namaLatin": "a", "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/gado.jpeg"},
+    {"nama": "Topoki", "namaLatin": "a", "imageId": "https://raw.githubusercontent.com/Hairunissar/IndonesianRecipe/main/Resep%20makanan/topoki.jpeg"}
 ]
