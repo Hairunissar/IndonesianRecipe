@@ -1,8 +1,8 @@
 [
-    {"nama": "Nasi Goreng", "namaLatin": "a",  "imageId": "nasigoreng.jpeg"},
-    {"nama": "Mie Ayam", "namaLatin": "a", "imageId": "mie%20ayam.jpeg"},
-    {"nama": "Seblak", "namaLatin": "a", "imageId": "seblak.jpeg"},
-    {"nama": "Gulai", "namaLatin": "a", "imageId": "gulai.jpeg"},
-    {"nama": "Gado", "namaLatin": "a", "imageId": "gado.jpeg"},
-    {"nama": "Topoki", "namaLatin": "a", "imageId": "topoki.jpeg"}
+    {"nama": "Nasi Goreng",  "imageId": "nasigoreng.jpeg"},
+    {"nama": "Mie Ayam", "imageId": "mie%20ayam.jpeg"},
+    {"nama": "Seblak", "imageId": "seblak.jpeg"},
+    {"nama": "Gulai", "imageId": "gulai.jpeg"},
+    {"nama": "Gado", "imageId": "gado.jpeg"},
+    {"nama": "Topoki", "imageId": "topoki.jpeg"}
 ]
