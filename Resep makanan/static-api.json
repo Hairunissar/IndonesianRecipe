@@ -1,0 +1,8 @@
+[
+    {"nama": "Nasi Goreng", "imageId": "nasigoreng"},
+    {"nama": "Mie Ayam", "imageId": "mie ayam"},
+    {"nama": "Seblak", "imageId": "seblak"},
+    {"nama": "Gulai", "imageId": "gulai"},
+    {"nama": "Gado", "imageId": "gado"},
+    {"nama": "Topoki", "imageId": "topoki"}
+]
