@@ -1,8 +1,9 @@
 [
-    {"nama": "kepiting",  "imageId": "kepiting.jpg"},
-    {"nama": "kari", "imageId": "kari.jpg"},
-    {"nama": "cumi", "imageId": "cumi.jpg"},
-    {"nama": "mie", "imageId": "mie.jpg"},
-    {"nama": "bakso", "imageId": "bakso.jpg"},
-    {"nama": "seblak", "imageId": "seblak.jpg"}
+    {"nama": "Kepiting",  "imageId": "kepiting.jpg"},
+    {"nama": "Kari", "imageId": "kari.jpg"},
+    {"nama": "Cumi", "imageId": "cumi.jpg"},
+    {"nama": "Mie", "imageId": "mie.jpg"},
+    {"nama": "Bakso", "imageId": "bakso.jpg"},
+    {"nama": "Seblak", "imageId": "seblak.jpg"}
+    
 ]
