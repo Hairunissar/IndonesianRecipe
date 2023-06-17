@@ -1,0 +1,147 @@
+[
+    {
+        "nama": "Kepiting",
+        "imageId": "kepiting.jpg",
+        "deskripsi": "Kepiting menjadi salah satu favorit banyak orang untuk disantap.\nKepiting memang menjadi makanan yang banyak diburu pecinta seafood. Tak heran memang, olahan kepiting seperti saus Padang tak ada yang berani menolaknya. Apalagi dengan kekhasan dari daging kepiting menjadi sebuah daya tarik yang menggugah selera.",
+        "bahan": "Bahan-bahan:\n- 500 gr kepiting/rajungan\n- 1 sdt-1 sdm gula pasir\n- garam secukupnya\n- 3 lembar daun salam\n- 3-4 daun jeruk\n- 1/2 ruas lengkuas\n- 1 batang serai\n- 1 butir telur, kocok lepas (boleh skip)\n- 2 sdm saus tiram\n- 4 sdm saus tomat",
+        "instruksi": "Cara memasak:\n1. Siapkan panci, panaskan minyak. Tumis bumbu halus bersama bawang merah, bawang putih, cabai merah keriting, dan kemiri hingga harum.\n2. Masukkan daging ayam yang telah dipotong kecil-kecil. Tumis hingga ayam berubah warna.\n3. Tambahkan air secukupnya dan masukkan kerupuk. Masak hingga mendidih.\n4. Masukkan mi instan, kol, sawi, wortel, dan tahu. Aduk rata dan masak hingga semua bahan matang.\n5. Tambahkan garam, kaldu bubuk, saus tomat, dan saus cabai. Aduk rata dan masak sebentar lagi.\n6. Sajikan seblak panas dalam mangkuk. Tambahkan kerupuk bawang, daun bawang, dan irisan jeruk nipis jika diinginkan"
+    },
+
+    {
+        "nama": "Kari",
+        "imageId": "kari.jpg",
+        "deskripsi": "Kari merupakan masakan khas Asia yang terkenal dengan rempah-rempahnya yang kaya dan cita rasanya yang lezat. Kari sering disajikan dengan nasi putih dan berbagai jenis bahan seperti daging, ayam, atau sayuran. Rasakan kelezatan kari yang kaya rempah ini!",
+        "bahan": "Bahan-bahan:\n- 500 gr daging (ayam, sapi, atau daging lainnya)\n- 1 bungkus bubuk kari\n- 2 sdm minyak goreng\n- 1 buah bawang bombay, iris tipis\n- 3 siung bawang putih, cincang halus\n- 2 cm jahe, memarkan\n- 2 cm lengkuas, memarkan\n- 2 batang serai, memarkan\n- 4 lembar daun jeruk\n- 2 buah cabai merah, iris serong\n- 400 ml santan\n- Garam secukupnya\n- Gula secukupnya\n- Air secukupnya",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak goreng dalam wajan. Tumis bawang bombay, bawang putih, jahe, lengkuas, serai, daun jeruk, dan cabai merah hingga harum.\n2. Masukkan daging yang telah dipotong-potong. Aduk rata dan masak hingga daging berubah warna.\n3. Tambahkan bubuk kari dan aduk rata hingga daging terbalut bumbu.\n4. Tuangkan santan ke dalam wajan. Aduk rata dan biarkan mendidih.\n5. Tambahkan garam dan gula secukupnya sesuai selera.\n6. Masak kari dengan api kecil hingga bumbu meresap dan daging empuk. Tambahkan air jika kari terlalu kental.\n7. Setelah matang, angkat kari dan sajikan dengan nasi putih hangat."
+    },
+
+    {
+        "nama": "Cumi",
+        "imageId": "cumi.jpg",
+        "deskripsi": "Cumi pedas adalah hidangan seafood yang terkenal dengan cita rasa pedas yang menggugah selera. Cumi yang digoreng krispi disajikan dengan bumbu pedas yang menghasilkan kombinasi yang sempurna. Siapkan lidah Anda untuk sensasi pedas yang menggelegar!",
+        "bahan": "Bahan-bahan:\n- 500 gr cumi segar, bersihkan dan potong-potong\n- 2 sdm tepung terigu\n- 2 sdm tepung maizena\n- 1 sdt bubuk cabai\n- 1/2 sdt garam\n- Minyak goreng secukupnya\n- 3 siung bawang putih, cincang halus\n- 2 buah cabai merah besar, iris serong\n- 1 buah cabai rawit merah, iris serong\n- 2 sdm saus cabai\n- 1 sdm saus tomat\n- 1 sdm saus tiram\n- 1/2 sdt garam\n- 1/2 sdt gula\n- Air secukupnya\n- Daun bawang untuk taburan",
+        "instruksi": "Cara memasak:\n1. Campurkan tepung terigu, tepung maizena, bubuk cabai, dan garam dalam wadah. Aduk rata.\n2. Gulingkan potongan cumi dalam campuran tepung hingga terbalut rata.\n3. Panaskan minyak dalam wajan. Goreng cumi dalam minyak panas hingga krispi dan berwarna kecokelatan. Angkat dan tiriskan.\n4. Panaskan sedikit minyak dalam wajan. Tumis bawang putih, cabai merah besar, dan cabai rawit merah hingga harum.\n5. Tambahkan saus cabai, saus tomat, saus tiram, garam, gula, dan air secukupnya. Aduk rata.\n6. Masukkan cumi goreng ke dalam wajan. Aduk rata hingga cumi terbalut bumbu.\n7. Sajikan cumi pedas dalam piring saji dan taburi dengan daun bawang."
+    },
+
+    {
+        "nama": "Mie Goreng",
+        "imageId": "mie.jpg",
+        "deskripsi": "Mie goreng adalah hidangan populer yang terbuat dari mie yang digoreng bersama dengan bumbu dan bahan lainnya. Rasakan sensasi gurih dan lezatnya mie yang kaya akan rasa dan tekstur. Nikmati mie goreng sebagai hidangan yang cocok untuk segala suasana!",
+        "bahan": "Bahan-bahan:\n- 200 gr mie telur\n- 2 sdm minyak goreng\n- 3 siung bawang putih, cincang halus\n- 2 buah cabai merah, iris serong\n- 1 buah wortel, iris tipis\n- 1 batang daun bawang, iris serong\n- 2 sdm kecap manis\n- 1 sdm saus tiram\n- 1/2 sdt garam\n- 1/4 sdt merica\n- 1 butir telur, kocok lepas\n- Daun seledri untuk taburan",
+        "instruksi": "Cara memasak:\n1. Rebus mie telur dalam air mendidih hingga matang. Tiriskan dan sisihkan.\n2. Panaskan minyak dalam wajan. Tumis bawang putih, cabai merah, wortel, dan daun bawang hingga harum.\n3. Tambahkan mie telur ke dalam wajan. Aduk rata.\n4. Tuangkan kecap manis, saus tiram, garam, dan merica ke dalam wajan. Aduk rata hingga bumbu tercampur merata dengan mie.\n5. Dorong mie ke satu sisi wajan. Tuangkan telur kocok ke sisi kosong wajan. Aduk telur hingga setengah matang.\n6. Aduk rata mie dan telur hingga tercampur merata dan matang.\n7. Sajikan mie goreng dalam piring saji dan taburi dengan daun seledri."
+    },
+
+    {
+        "nama": "Bakso",
+        "imageId": "bakso.jpg",
+        "deskripsi": "Bakso adalah hidangan yang terkenal di Indonesia. Terdiri dari bola daging yang kenyal dan gurih, bakso sering disajikan dalam kuah kaldu yang lezat. Rasakan sensasi kenikmatan bakso yang menghangatkan perut Anda!",
+        "bahan": "Bahan-bahan:\n- 500 gr daging sapi giling\n- 100 gr tepung tapioka\n- 2 siung bawang putih, haluskan\n- 1/2 sdt merica bubuk\n- 1 sdt garam\n- 1/2 sdt gula\n- Es batu secukupnya\n- Air secukupnya\n- Bakso goreng (opsional)\n- Sawi hijau, rebus sebentar\n- Bawang goreng untuk taburan\n- Daun seledri untuk taburan",
+        "instruksi": "Cara memasak:\n1. Campurkan daging sapi giling, tepung tapioka, bawang putih, merica bubuk, garam, dan gula dalam wadah. Uleni hingga adonan tercampur rata dan kenyal.\n2. Ambil sejumput adonan dan bulatkan menjadi bakso. Lakukan hingga adonan habis.\n3. Rebus air dalam panci. Masukkan es batu ke dalam air rebusan.\n4. Masukkan bakso ke dalam air mendidih hingga matang dan mengapung. Angkat dan tiriskan.\n5. Siapkan mangkuk saji. Letakkan bakso, bakso goreng, sawi hijau, bawang goreng, dan daun seledri di atasnya.\n6. Tuangkan kuah kaldu panas ke dalam mangkuk.\n7. Bakso siap disajikan. Nikmati dengan tambahan bawang goreng dan daun seledri."
+    },
+
+    {
+        "nama": "Seblak",
+        "imageId": "seblak.jpg",
+        "deskripsi": "Seblak adalah makanan khas Indonesia yang memiliki cita rasa pedas dan gurih. Terbuat dari kerupuk basah yang dimasak dengan bumbu dan bahan tambahan seperti sayuran dan daging, seblak sangat cocok dinikmati sebagai camilan atau hidangan utama.",
+        "bahan": "Bahan-bahan:\n- 200 gr kerupuk basah\n- 1 buah tahu, potong dadu\n- 100 gr daging ayam, rebus dan suwir-suwir\n- 2 siung bawang putih, cincang halus\n- 2 buah cabai merah keriting, iris tipis\n- 2 buah cabai rawit merah, iris tipis\n- 1 batang daun bawang, iris serong\n- 2 sdm saus tomat\n- 1 sdm saus sambal\n- 1/2 sdt garam\n- 1/4 sdt merica\n- Air secukupnya\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Tumis bawang putih, cabai merah keriting, dan cabai rawit merah hingga harum.\n2. Tambahkan tahu dan daging ayam suwir. Aduk rata.\n3. Masukkan kerupuk basah. Tambahkan saus tomat, saus sambal, garam, dan merica. Aduk rata.\n4. Tuangkan air secukupnya. Masak hingga bumbu meresap dan kerupuk basah lunak.\n5. Tambahkan daun bawang. Aduk sebentar.\n6. Seblak siap disajikan. Nikmati selagi hangat."
+    },
+
+    {
+        "nama": "Ayam Karage",
+        "imageId": "ayamkarage.jpg",
+        "deskripsi": "Ayam Karage adalah hidangan ayam goreng ala Jepang yang populer di berbagai belahan dunia. Daging ayam yang digoreng dengan tepung khusus memberikan tekstur renyah di luar dan lembut di dalam. Ayam Karage biasanya disajikan dengan saus atau mayones untuk tambahan rasa yang lezat.",
+        "bahan": "Bahan-bahan:\n- 500 gr daging ayam, potong menjadi bagian kecil\n- 2 siung bawang putih, haluskan\n- 1 cm jahe, haluskan\n- 1 sdm kecap manis\n- 1 sdm saus teriyaki\n- 1 sdt garam\n- 1/2 sdt merica bubuk\n- 100 gr tepung terigu\n- 50 gr tepung maizena\n- Minyak untuk menggoreng",
+        "instruksi": "Cara memasak:\n1. Campurkan daging ayam, bawang putih, jahe, kecap manis, saus teriyaki, garam, dan merica dalam wadah. Aduk rata dan diamkan selama 30 menit agar bumbu meresap.\n2. Campurkan tepung terigu dan tepung maizena dalam wadah terpisah.\n3. Gulingkan potongan ayam dalam campuran tepung hingga terbalut rata.\n4. Panaskan minyak dalam wajan. Goreng ayam hingga kecokelatan dan matang.\n5. Angkat ayam karage dan tiriskan minyak berlebih.\n6. Ayam Karage siap disajikan. Sajikan dengan saus atau mayones sebagai pelengkap."
+    },
+
+    {
+        "nama": "Gurita Pedas",
+        "imageId": "guritapedas.jpg",
+        "deskripsi": "Gurita Pedas adalah hidangan laut yang menggoda selera dengan cita rasa pedas dan segar. Gurita dimasak dengan bumbu pedas dan disajikan dengan sayuran segar seperti paprika, wortel, dan bawang bombay. Rasakan sensasi kenikmatan hidangan ini yang kaya akan rasa dan tekstur.",
+        "bahan": "Bahan-bahan:\n- 500 gr gurita segar, rebus sebentar dan potong-potong\n- 1 buah paprika merah, potong dadu\n- 1 buah paprika hijau, potong dadu\n- 1 buah wortel, potong serong\n- 1 buah bawang bombay, iris tipis\n- 2 siung bawang putih, cincang halus\n- 2 buah cabai merah, iris serong\n- 2 sdm saus cabai\n- 1 sdm saus tiram\n- 1 sdm saus tomat\n- 1 sdt gula pasir\n- 1/2 sdt garam\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Tumis bawang putih, cabai merah, dan bawang bombay hingga harum.\n2. Masukkan potongan gurita, paprika merah, paprika hijau, dan wortel. Aduk rata.\n3. Tambahkan saus cabai, saus tiram, saus tomat, gula pasir, dan garam. Aduk rata.\n4. Masak hingga bumbu meresap dan sayuran matang.\n5. Gurita Pedas siap disajikan. Sajikan dengan nasi putih hangat atau sebagai hidangan utama."
+    },
+
+    {
+        "nama": "Makaroni Pedas",
+        "imageId": "makaroni.jpg",
+        "deskripsi": "Makaroni Pedas adalah hidangan pasta yang diolah dengan bumbu pedas yang menggugah selera. Makaroni dimasak al dente dan disajikan dengan saus pedas yang kaya akan rasa dan aroma. Hidangan ini cocok untuk pecinta makanan pedas yang ingin menikmati hidangan pasta dengan sensasi pedas yang menyegarkan.",
+        "bahan": "Bahan-bahan:\n- 200 gr makaroni\n- 2 siung bawang putih, cincang halus\n- 1 buah bawang bombay, iris tipis\n- 2 buah cabai merah, iris serong\n- 2 sdm saus cabai\n- 2 sdm saus tomat\n- 1 sdm saus tiram\n- 1 sdt gula pasir\n- 1/2 sdt garam\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Rebus makaroni dalam air mendidih dengan sedikit garam hingga al dente. Tiriskan dan sisihkan.\n2. Panaskan minyak dalam wajan. Tumis bawang putih, bawang bombay, dan cabai merah hingga harum.\n3. Tambahkan saus cabai, saus tomat, saus tiram, gula pasir, dan garam. Aduk rata.\n4. Masukkan makaroni ke dalam wajan. Aduk rata hingga semua bahan terbalut dengan baik.\n5. Makaroni Pedas siap disajikan. Sajikan dalam piring saji dan nikmati selagi hangat."
+    },
+
+    {
+        "nama": "Telur Balado",
+        "imageId": "telurbalado.jpg",
+        "deskripsi": "Telur Balado adalah hidangan telur yang diolah dengan bumbu balado yang pedas dan gurih. Telur direbus, dikupas, dan digoreng hingga kecokelatan. Dilumuri dengan bumbu balado yang kaya akan rasa pedas dan nikmat. Hidangan ini cocok disajikan sebagai lauk pendamping nasi atau sebagai hidangan utama.",
+        "bahan": "Bahan-bahan:\n- 4 butir telur, rebus dan kupas\n- 3 buah cabai merah, iris serong\n- 2 buah cabai rawit, iris serong (opsional)\n- 3 siung bawang putih, cincang halus\n- 2 buah bawang merah, iris tipis\n- 2 lembar daun jeruk\n- 1 sdm air asam jawa\n- 1 sdt gula pasir\n- 1/2 sdt garam\n- Minyak untuk menggoreng",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Goreng telur rebus hingga kecokelatan. Angkat dan tiriskan.\n2. Panaskan minyak dalam wajan bersih. Tumis bawang putih, bawang merah, cabai merah, dan cabai rawit hingga harum.\n3. Tambahkan daun jeruk, air asam jawa, gula pasir, dan garam. Aduk rata.\n4. Masukkan telur ke dalam wajan. Balurkan bumbu balado ke seluruh permukaan telur.\n5. Telur Balado siap disajikan. Sajikan dalam piring saji dan nikmati selagi hangat."
+    },
+
+    {
+        "nama": "Ramen",
+        "imageId": "ramen.jpg",
+        "deskripsi": "Ramen adalah hidangan mie Jepang yang terkenal di seluruh dunia. Hidangan ini terdiri dari mie gandum yang kenyal, kuah kaldunya yang gurih, dan beragam topping seperti daging, sayuran, dan telur. Ramen dapat disajikan dalam berbagai varian rasa dan gaya, memberikan pengalaman makan yang lezat dan memuaskan.",
+        "bahan": "Bahan-bahan:\n- 2 bungkus mie ramen\n- 500 ml kaldu ayam\n- 100 gr daging ayam, iris tipis\n- 50 gr wortel, iris tipis\n- 50 gr jamur shiitake, iris tipis\n- 2 batang daun bawang, iris tipis\n- 2 butir telur rebus, belah dua\n- 1 sdm minyak wijen\n- 1 sdm kecap asin\n- 1 sdt garam\n- 1/2 sdt merica bubuk\n- Air secukupnya untuk merebus mie",
+        "instruksi": "Cara memasak:\n1. Rebus mie ramen dalam air mendidih hingga matang. Tiriskan dan sisihkan.\n2. Panaskan minyak dalam wajan. Tumis daging ayam hingga berubah warna.\n3. Tambahkan wortel, jamur shiitake, dan daun bawang. Aduk rata.\n4. Tuangkan kaldu ayam ke dalam wajan. Tambahkan minyak wijen, kecap asin, garam, dan merica bubuk. Aduk rata.\n5. Masak hingga semua bahan matang dan kuah kaldunya terasa gurih.\n6. Siapkan mangkuk saji, letakkan mie ramen, dan tuang kuah dan topping di atasnya.\n7. Sajikan Ramen dengan telur rebus dan tambahan bahan pelengkap lainnya sesuai selera."
+    }, 
+
+    {
+        "nama": "Ceker",
+        "imageId": "ceker.jpg",
+        "deskripsi": "Ceker adalah bagian dari kaki ayam yang diolah menjadi hidangan lezat dan gurih. Hidangan ceker memiliki tekstur kenyal dan rasa yang kaya. Ceker biasanya dimasak dengan bumbu-bumbu khas seperti kecap, cabai, dan rempah-rempah sehingga menghasilkan hidangan yang menggugah selera.",
+        "bahan": "Bahan-bahan:\n- 500 gr ceker ayam\n- 3 siung bawang putih, cincang halus\n- 2 cm jahe, memarkan\n- 3 lembar daun salam\n- 2 batang serai, memarkan\n- 2 sdm kecap manis\n- 1 sdm saus tiram\n- 1 sdm saus cabai\n- 1/2 sdt garam\n- 1/4 sdt merica bubuk\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Rebus ceker ayam dalam air mendidih hingga empuk. Tiriskan dan sisihkan.\n2. Panaskan minyak dalam wajan. Tumis bawang putih, jahe, daun salam, dan serai hingga harum.\n3. Masukkan ceker ayam ke dalam wajan. Aduk rata.\n4. Tambahkan kecap manis, saus tiram, saus cabai, garam, dan merica bubuk. Aduk rata hingga bumbu terbalut merata.\n5. Masak hingga ceker ayam terasa gurih dan bumbu meresap.\n6. Sajikan Ceker dalam piring saji sebagai hidangan utama atau sebagai lauk pendamping nasi."
+    },
+
+    {
+        "nama": "Rendang",
+        "imageId": "rendang.jpg",
+        "deskripsi": "Rendang adalah hidangan daging yang kaya rempah-rempah dan bumbu yang berasal dari Indonesia. Hidangan ini terkenal dengan cita rasa gurih, pedas, dan lezat. Daging yang dimasak dalam waktu lama dengan santan dan bumbu-bumbu khas menghasilkan rendang dengan tekstur yang lembut dan rasa yang kaya.",
+        "bahan": "Bahan-bahan:\n- 500 gr daging sapi (pilihan: has dalam, sandung lamur, atau tetelan)\n- 400 ml santan kental\n- 3 lembar daun jeruk\n- 2 batang serai, memarkan\n- 3 cm lengkuas, memarkan\n- 2 lembar daun kunyit, sobek-sobek\n- 2 sdm kerisik (kelapa parut sangrai)\n- 2 sdm minyak goreng\n- Bumbu halus:\n  - 8 buah cabai merah keriting\n  - 6 buah cabai rawit (sesuai selera)\n  - 6 butir bawang merah\n  - 4 siung bawang putih\n  - 2 cm jahe\n  - 2 cm kunyit\n  - 2 cm lengkuas\n  - 1/2 sdt jintan\n  - 1/2 sdt ketumbar\n  - 1/2 sdt merica\n  - 1/4 sdt pala bubuk\n  - 1/4 sdt cengkeh bubuk\n  - 1/2 sdt serbuk kayu manis\n  - 1 sdt garam\n  - 2 sdt gula merah\n  - 1 sdt asam jawa (larutkan dengan sedikit air)\n- Garam secukupnya",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Tumis bumbu halus hingga harum.\n2. Masukkan daging sapi ke dalam wajan. Aduk rata dan tumis hingga daging berubah warna.\n3. Tambahkan daun jeruk, serai, lengkuas, daun kunyit, dan kerisik. Aduk rata.\n4. Tuangkan santan kental ke dalam wajan. Aduk rata dan masak dengan api kecil hingga santan menyusut dan bumbu meresap ke dalam daging.\n5. Lanjutkan memasak dengan api sangat kecil atau menggunakan panci presto selama 2-3 jam hingga daging benar-benar empuk dan bumbu meresap.\n6. Koreksi rasa dengan garam.\n7. Sajikan Rendang dengan nasi hangat dan hidangkan sebagai hidangan utama yang lezat."
+    },
+
+    {
+        "nama": "Tteokbokki",
+        "imageId": "topoki.jpg",
+        "deskripsi": "Tteokbokki adalah hidangan populer dari Korea yang terbuat dari tteok (kue beras) yang dimasak dalam saus pedas. Hidangan ini memiliki cita rasa pedas, manis, dan gurih. Tteokbokki sering dijadikan sebagai jajanan atau makanan ringan di Korea, tetapi juga bisa menjadi hidangan utama yang lezat.",
+        "bahan": "Bahan-bahan:\n- 200 gr tteok (kue beras)\n- 150 gr odeng (fish cake), iris tipis\n- 2 batang daun bawang, potong-potong\n- 2 sdm gochujang (pasta cabai Korea)\n- 1 sdm gochugaru (serbuk cabai Korea)\n- 1 sdm kecap ikan\n- 1 sdm gula\n- 1 sdm minyak wijen\n- 3 siung bawang putih, cincang halus\n- 500 ml kaldu (daging atau sayuran)\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Tumis bawang putih hingga harum.\n2. Masukkan gochujang dan gochugaru. Aduk rata dengan api kecil hingga bumbu tercampur dengan baik.\n3. Tuangkan kaldu ke dalam wajan dan biarkan mendidih.\n4. Masukkan tteok dan odeng ke dalam wajan. Masak dengan api sedang hingga tteok empuk dan saus mengental.\n5. Tambahkan kecap ikan, gula, dan minyak wijen. Aduk rata dan masak sebentar lagi.\n6. Terakhir, tambahkan daun bawang dan aduk rata.\n7. Sajikan Tteokbokki dalam mangkuk saji dan nikmati selagi hangat."
+    },
+
+    {
+        "nama": "Jengkol Balado",
+        "imageId": "jengkol.jpg",
+        "deskripsi": "Jengkol Balado adalah hidangan khas Indonesia yang terbuat dari jengkol yang dimasak dalam bumbu balado pedas. Jengkol adalah biji yang memiliki rasa khas dan tekstur yang kenyal. Hidangan ini memiliki rasa pedas, gurih, dan sedikit manis. Jengkol Balado sering dijadikan sebagai lauk pendamping nasi yang lezat dan menggugah selera.",
+        "bahan": "Bahan-bahan:\n- 250 gr jengkol, rebus hingga empuk dan kupas kulitnya\n- 5 buah cabai merah keriting\n- 5 buah cabai rawit (sesuai selera)\n- 5 buah bawang merah\n- 3 siung bawang putih\n- 2 lembar daun jeruk\n- 1 batang serai, memarkan\n- 2 cm lengkuas, memarkan\n- 1/2 sdt garam\n- 1/4 sdt gula pasir\n- Minyak untuk menumis",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam wajan. Tumis bawang merah, bawang putih, cabai merah, dan cabai rawit hingga harum.\n2. Masukkan daun jeruk, serai, dan lengkuas. Aduk rata.\n3. Masukkan jengkol yang sudah direbus ke dalam wajan. Aduk rata dengan bumbu.\n4. Tambahkan garam dan gula pasir. Aduk rata dan masak dengan api kecil hingga bumbu meresap ke dalam jengkol.\n5. Koreksi rasa dan masak sebentar lagi hingga bumbu benar-benar meresap.\n6. Jengkol Balado siap disajikan sebagai hidangan utama yang pedas dan lezat."
+    },
+
+    {
+        "nama": "Lasagna",
+        "imageId": "lasagna.jpg",
+        "deskripsi": "Lasagna adalah hidangan Italia yang terdiri dari lapisan-lapisan pasta lasagna, saus ragu, dan keju. Hidangan ini dikenal dengan rasa lezat dan tekstur yang kenyal. Lasagna sering dianggap sebagai hidangan klasik yang menggugah selera dan cocok disajikan sebagai hidangan utama dalam acara makan bersama keluarga atau teman.",
+        "bahan": "Bahan-bahan:\n- 250 gr pasta lasagna kering\n- 500 gr daging sapi cincang\n- 1 buah bawang bombay, cincang halus\n- 4 siung bawang putih, cincang halus\n- 2 batang sosis, iris tipis\n- 500 ml saus tomat\n- 200 gr keju Mozarella, parut\n- 100 gr keju Parmesan, parut\n- 2 sdm minyak zaitun\n- 1 sdt oregano\n- 1 sdt basil\n- Garam secukupnya\n- Merica secukupnya",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak zaitun dalam wajan. Tumis bawang bombay dan bawang putih hingga harum.\n2. Masukkan daging sapi cincang. Aduk rata dan masak hingga daging berubah warna.\n3. Tambahkan sosis, oregano, basil, garam, dan merica. Aduk rata dan masak hingga daging matang.\n4. Tuangkan saus tomat ke dalam wajan. Aduk rata dan masak dengan api kecil hingga ragu mengental.\n5. Rebus pasta lasagna hingga setengah matang. Tiriskan.\n6. Siapkan loyang lasagna. Susun lapisan pasta lasagna, saus ragu, dan keju Mozarella secara bergantian. Ulangi proses ini hingga semua bahan habis.\n7. Terakhir, taburi lasagna dengan keju Parmesan.\n8. Panggang dalam oven yang telah dipanaskan pada suhu 180 derajat Celsius selama 25-30 menit hingga lasagna matang dan keju meleleh.\n9. Angkat dari oven dan biarkan sebentar sebelum disajikan. Potong dan hidangkan Lasagna sebagai hidangan utama yang lezat."
+    },
+
+    {
+        "nama": "Rawon",
+        "imageId": "rawon.jpg",
+        "deskripsi": "Rawon adalah hidangan tradisional Indonesia yang terkenal dari daerah Jawa Timur. Hidangan ini terbuat dari daging sapi yang dimasak dengan bumbu khas, seperti kluwek yang memberikan warna hitam pada kuahnya. Rawon memiliki cita rasa yang kaya, gurih, dan sedikit pedas. Hidangan ini biasanya disajikan dengan nasi hangat, tauge, telur asin, dan kerupuk sebagai pelengkap.",
+        "bahan": "Bahan-bahan:\n- 500 gr daging sapi (has dalam), potong-potong\n- 3 lembar daun jeruk\n- 2 batang serai, memarkan\n- 2 cm lengkuas, memarkan\n- 2 sdm minyak goreng\n- 1 liter air\n- 2 sdm air asam jawa\n- 2 sdm gula merah, sisir\n- Garam secukupnya\n- Merica secukupnya\n- Bumbu Halus:\n  - 5 butir bawang merah\n  - 3 siung bawang putih\n  - 3 butir kemiri, sangrai\n  - 2 cm kunyit, bakar\n  - 2 cm jahe\n  - 1 sdt terasi\n  - 1 sdt ketumbar, sangrai\n  - 1 sdt jinten, sangrai\n  - 1/2 sdt lada hitam\n  - 5 buah cabe merah keriting\n  - 3 buah cabe rawit (sesuai selera)\n  - 2 buah kluwek, seduh air panas",
+        "instruksi": "Cara memasak:\n1. Panaskan minyak dalam panci. Tumis bumbu halus, daun jeruk, serai, dan lengkuas hingga harum.\n2. Masukkan daging sapi. Aduk rata dan masak hingga daging berubah warna.\n3. Tuangkan air ke dalam panci dan masak dengan api kecil hingga daging empuk.\n4. Tambahkan air asam jawa, gula merah, garam, dan merica. Aduk rata dan masak hingga bumbu meresap dan kuah mengental.\n5. Selama proses memasak, seduh kluwek dengan air panas hingga lunak. Haluskan kluwek yang sudah seduh.\n6. Tambahkan kluwek halus ke dalam panci. Aduk rata dan masak sebentar lagi hingga kuah berwarna hitam pekat.\n7. Koreksi rasa sesuai selera.\n8. Sajikan Rawon hangat dengan nasi, tauge, telur asin, dan kerupuk sebagai pelengkap."
+    },
+
+    {
+        "nama": "Martabak",
+        "imageId": "martabak.jpg",
+        "deskripsi": "Martabak adalah hidangan yang populer di banyak negara di Asia dan Timur Tengah. Di Indonesia, Martabak terkenal dengan varian Martabak Manis dan Martabak Telur. Martabak Manis adalah martabak dengan adonan yang digoreng dan diisi dengan campuran cokelat, keju, dan kacang. Sementara itu, Martabak Telur adalah martabak dengan adonan tipis yang diisi dengan telur, daging cincang, dan bumbu rempah. Martabak biasanya disajikan panas dengan saus kacang atau saus pedas sebagai pelengkap.",
+        "bahan": "Bahan-bahan Martabak Manis:\n- 250 gr tepung terigu\n- 1/2 sdt ragi instan\n- 2 sdm gula pasir\n- 1/2 sdt garam\n- 200 ml air hangat\n- 1 sdt pasta vanila\n- Keju parut secukupnya\n- Cokelat meses secukupnya\n- Kacang tanah cincang secukupnya\n\nBahan-bahan Martabak Telur:\n- 250 gr tepung terigu\n- 1/2 sdt ragi instan\n- 1/2 sdt gula pasir\n- 1/2 sdt garam\n- 200 ml air hangat\n- 1 butir telur, kocok lepas\n- 100 gr daging sapi cincang\n- 1 batang daun bawang, iris tipis\n- 1 batang seledri, iris tipis\n- 1/2 sdt merica bubuk\n- Garam secukupnya\n- Minyak untuk menggoreng",
+        "instruksi": "Cara memasak:\n1. Siapkan panci, panaskan minyak. Tumis bumbu halus bersama bawang merah, bawang putih, cabai merah keriting, dan kemiri hingga harum.\n2. Masukkan daging ayam yang telah dipotong kecil-kecil. Tumis hingga ayam berubah warna.\n3. Tambahkan air secukupnya dan masukkan kerupuk. Masak hingga mendidih.\n4. Masukkan mi instan, kol, sawi, wortel, dan tahu. Aduk rata dan masak hingga semua bahan matang.\n5. Tambahkan garam, kaldu bubuk, saus tomat, dan saus cabai. Aduk rata dan masak sebentar lagi.\n6. Sajikan seblak panas dalam mangkuk. Tambahkan kerupuk bawang, daun bawang, dan irisan jeruk nipis jika diinginkan"
+    }
+       
+
+]
