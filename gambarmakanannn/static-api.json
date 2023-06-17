@@ -1,0 +1,20 @@
+[
+    {"nama": "kepiting",  "imageId": "kepiting.jpg"},
+    {"nama": "kari", "imageId": "kari.jpg"},
+    {"nama": "cumi", "imageId": "cumi.jpg"},
+    {"nama": "mie", "imageId": "mie.jpg"},
+    {"nama": "bakso", "imageId": "bakso.jpg"},
+    {"nama": "seblak", "imageId": "seblak.jpg"},
+    {"nama": "Ayam Karage", "imageId": "ayamkarage.jpg"},
+    {"nama": "Gurita Pedas", "imageId": "guritapedas.jpg"},
+    {"nama": "Makaroni Pedas", "imageId": "makaroni.jpg"},
+    {"nama": "TelurBalado", "imageId": "telurbalado.jpg"},
+    {"nama": "Ramen", "imageId": "ramen.jpg"},
+    {"nama": "Ceker", "imageId": "ceker.jpg"},
+    {"nama": "Rendang", "imageId": "rendang.jpg"},
+    {"nama": "TTepokki", "imageId": "topoki.jpg"},
+    {"nama": "Jengkol", "imageId": "jengkol.jpg"},
+    {"nama": "Lasagna", "imageId": "lasagna.jpg"},
+    {"nama": "Rawon", "imageId": "rawon.jpg"},
+    {"nama": "Martabak", "imageId": "martabak.jpg"}
+]
