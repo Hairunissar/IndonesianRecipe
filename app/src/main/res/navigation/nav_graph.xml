@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="org.d3if3058.myapplication.ui.main.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_fragmentResep"
+            app:destination="@id/fragmentResep" />
+        <action
+            android:id="@+id/action_mainFragment_to_fragmentHitungKalori"
+            app:destination="@id/fragmentHitungKalori" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentResep"
+        android:name="org.d3if3058.myapplication.ui.main.ResepFragment"
+        android:label="FragmentResep" />
+    <fragment
+        android:id="@+id/fragmentHitungKalori"
+        android:name="org.d3if3058.myapplication.ui.main.HitungKaloriFragment"
+        android:label="FragmentHitungKalori" />
+</navigation>
